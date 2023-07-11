@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\bin\Debug\ConAppDataType.exe.config
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\bin\Debug\ConAppDataType.exe
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\bin\Debug\ConAppDataType.pdb
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\obj\Debug\ConAppDataType.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\obj\Debug\ConAppDataType.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\obj\Debug\ConAppDataType.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\obj\Debug\ConAppDataType.exe
+C:\Users\HP\Desktop\Indeed\Day-2\ConAppDataType\ConAppDataType\obj\Debug\ConAppDataType.pdb
